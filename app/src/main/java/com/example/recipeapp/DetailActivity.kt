@@ -20,7 +20,9 @@ class DetailActivity : AppCompatActivity() {
 
         val dataRecipes = intent.getParcelableExtra<Recipes>(RECIPES_DATA) as Recipes
         Glide.with(this).load(dataRecipes.photo).into(binding.imgDetail)
+
         binding.apply {
+            titleDetailRecipe.title = dataRecipes.name
             tvNameRecipeDetail.text = dataRecipes.name
             tvCaloriesDetail.text = dataRecipes.calories
             tvCarboDetail.text = dataRecipes.carbo
