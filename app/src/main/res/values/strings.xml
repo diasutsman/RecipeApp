@@ -13,10 +13,8 @@
     <string name="content_image_for_detail_recipe">Image For Detail Recipe</string>
     <string name="txt_calories">Calories</string>
     <string name="txt_carbo">Carbo</string>
-    <string name="txt_resep">Resep</string>
-    <string name="txt_bahan_bahan">Bahan-bahan:</string>
-    <string name="txt_instruksi_pembuatan">Instruksi Pembuatan:</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="protein">Protein</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_resep">Recipe</string>
+    <string name="txt_bahan_bahan">Ingredients:</string>
+    <string name="txt_instruksi_pembuatan">Making Instruction:</string>
 </resources>

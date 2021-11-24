@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_dessert">Makanan Penutup</string>
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="content_image_for_banner">Gambar Untuk Spanduk Resep</string>
+    <string name="txt_recipe_name_banner">Udang Mentega Bawang Putih</string>
+    <string name="txt_1_2_k">1.2 K</string>
+    <string name="txt_cooked">Dimasak</string>
+    <string name="content_image_for_recipes">Gambar Untuk Resep-Resep</string>
+    <string name="txt_detail_recipe">Detail resep</string>
+    <string name="content_image_for_detail_recipe">Gambar Untuk Detail Resep</string>
+    <string name="txt_calories">Kalori</string>
+    <string name="txt_carbo">Karbo</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_resep">Resep</string>
+    <string name="txt_bahan_bahan">Bahan-bahan:</string>
+    <string name="txt_instruksi_pembuatan">Instruksi Pembuatan:</string>
+</resources>
